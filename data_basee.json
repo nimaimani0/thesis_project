@@ -1,0 +1,160 @@
+{
+    "course": [
+        {
+            "id": "10001",
+            "title": "Natural Language Processing",
+            "professor_id": "1000000016",
+            "year": 2025,
+            "semester": "First",
+            "capacity": 10,
+            "resources": [
+                "Speech and Language Processing by Jurafsky & Martin",
+                "Deep Learning for NLP by Goldberg"
+            ],
+            "units": 3
+        },
+        {
+            "id": "10002",
+            "title": "Computer Vision",
+            "professor_id": "1000000016",
+            "year": 2025,
+            "semester": "Second",
+            "capacity": 10,
+            "resources": [
+                "Computer Vision: Algorithms and Applications by Szeliski",
+                "Deep Learning for Vision Systems by Rajalingham"
+            ],
+            "units": 3
+        },
+        {
+            "id": "10003",
+            "title": "Cybersecurity",
+            "professor_id": "1000000017",
+            "year": 2025,
+            "semester": "First",
+            "capacity": 8,
+            "resources": [
+                "Computer Security: Principles and Practice by Stallings",
+                "The Web Application Hacker's Handbook by Stuttard & Pinto"
+            ],
+            "units": 3
+        },
+        {
+            "id": "10004",
+            "title": "Algorithms",
+            "professor_id": "1000000017",
+            "year": 2025,
+            "semester": "Second",
+            "capacity": 7,
+            "resources": [
+                "Introduction to Algorithms by Cormen et al.",
+                "Algorithm Design by Kleinberg & Tardos"
+            ],
+            "units": 3
+        },
+        {
+            "id": "10005",
+            "title": "Rigid Body Kinematics",
+            "professor_id": "1000000019",
+            "year": 2025,
+            "semester": "First",
+            "capacity": 10,
+            "resources": [
+                "Engineering Mechanics: Dynamics by Hibbeler",
+                "Rigid Body Dynamics Algorithms by Featherstone"
+            ],
+            "units": 3
+        },
+        {
+            "id": "10006",
+            "title": "Machine Dynamics",
+            "professor_id": "1000000019",
+            "year": 2025,
+            "semester": "Second",
+            "capacity": 10,
+            "resources": [
+                "Theory of Machines and Mechanisms by Uicker et al.",
+                "Mechanical Vibrations by Rao"
+            ],
+            "units": 3
+        },
+        {
+            "id": "10007",
+            "title": "Strength of Materials",
+            "professor_id": "1000000020",
+            "year": 2025,
+            "semester": "First",
+            "capacity": 10,
+            "resources": [
+                "Mechanics of Materials by Gere",
+                "Strength of Materials by Timoshenko"
+            ],
+            "units": 3
+        },
+        {
+            "id": "10008",
+            "title": "Fluid Mechanics",
+            "professor_id": "1000000020",
+            "year": 2025,
+            "semester": "Second",
+            "capacity": 10,
+            "resources": [
+                "Fluid Mechanics by White",
+                "Introduction to Fluid Mechanics by Fox & McDonald"
+            ],
+            "units": 3
+        },
+        {
+            "id": "10009",
+            "title": "Power Systems",
+            "professor_id": "1000000018",
+            "year": 2025,
+            "semester": "First",
+            "capacity": 8,
+            "resources": [
+                "Power System Analysis by Grainger & Stevenson",
+                "Electrical Power Systems by Wadhwa"
+            ],
+            "units": 3
+        },
+        {
+            "id": "10010",
+            "title": "Electromagnetics",
+            "professor_id": "1000000018",
+            "year": 2025,
+            "semester": "Second",
+            "capacity": 10,
+            "resources": [
+                "Field and Wave Electromagnetics by Cheng",
+                "Introduction to Electrodynamics by Griffiths"
+            ],
+            "units": 3
+        },
+        {
+            "id": "10011",
+            "title": "math2",
+            "professor_id": "1000000021",
+            "year": 2025,
+            "semester": "Second",
+            "capacity": 10,
+            "resources": [
+                "math2",
+                ""
+            ],
+            "units": 3
+        },
+        {
+            "id": "10012",
+            "title": "physic2",
+            "professor_id": "1000000021",
+            "year": 2025,
+            "semester": "Second",
+            "capacity": 10,
+            "resources": [
+                "phyisic2",
+                ""
+            ],
+            "units": 3
+        }
+    ]
+}

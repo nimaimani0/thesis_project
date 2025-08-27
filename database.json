@@ -1,0 +1,202 @@
+{
+    "user": [
+        {
+            "id": "1000000001",
+            "name": "nima imani",
+            "person": "student",
+            "major": "Computer Engineering",
+            "password": "nima4321",
+            "thesis_request": null
+        },
+        {
+            "id": "1000000002",
+            "name": "mehdi ahmadian",
+            "person": "student",
+            "major": "Mechanical Engineering",
+            "password": "mehdi1234",
+            "thesis_request": null
+        },
+        {
+            "id": "1000000003",
+            "name": "sina moradi",
+            "person": "student",
+            "major": "Electrical Engineering",
+            "password": "sina1234",
+            "thesis_request": null
+        },
+        {
+            "id": "1000000004",
+            "name": "amir alinejad",
+            "person": "student",
+            "major": "Computer Engineering",
+            "password": "amir1234",
+            "thesis_request": null
+        },
+        {
+            "id": "1000000005",
+            "name": "abolfazl pashotan",
+            "person": "student",
+            "major": "Mechanical Engineering",
+            "password": "abolfazl1234",
+            "thesis_request": null
+        },
+        {
+            "id": "1000000006",
+            "name": "soren ziashamamy",
+            "person": "student",
+            "major": "Electrical Engineering",
+            "password": "soren1234",
+            "thesis_request": null
+        },
+        {
+            "id": "1000000007",
+            "name": "javad pakheyrian",
+            "person": "student",
+            "major": "Computer Engineering",
+            "password": "javad1234",
+            "thesis_request": null
+        },
+        {
+            "id": "1000000008",
+            "name": "alireza yasrebi",
+            "person": "student",
+            "major": "Mechanical Engineering",
+            "password": "ali1234",
+            "thesis_request": null
+        },
+        {
+            "id": "1000000009",
+            "name": "alireza naderi",
+            "person": "student",
+            "major": "Electrical Engineering",
+            "password": "naderi1234",
+            "thesis_request": null
+        },
+        {
+            "id": "1000000010",
+            "name": "steven jobs",
+            "person": "student",
+            "major": "Computer Engineering",
+            "password": "jobs1234",
+            "thesis_request": null
+        },
+        {
+            "id": "1000000011",
+            "name": "zakerberg",
+            "person": "student",
+            "major": "Mechanical Engineering",
+            "password": "zakerberg",
+            "thesis_request": null
+        },
+        {
+            "id": "1000000012",
+            "name": "linuz torwalds",
+            "person": "student",
+            "major": "Electrical Engineering",
+            "password": "linuz1234",
+            "thesis_request": null
+        },
+        {
+            "id": "1000000013",
+            "name": "ilan mask",
+            "person": "student",
+            "major": "Computer Engineering",
+            "password": "mask1234",
+            "thesis_request": null
+        },
+        {
+            "id": "1000000014",
+            "name": "sam altman",
+            "person": "student",
+            "major": "Mechanical Engineering",
+            "password": "sam1234",
+            "thesis_request": null
+        },
+        {
+            "id": "1000000015",
+            "name": "billgates",
+            "person": "student",
+            "major": "Electrical Engineering",
+            "password": "bill1234",
+            "thesis_request": null
+        },
+        {
+            "id": "1000000016",
+            "name": "Dr. morteza mohajel",
+            "person": "professor",
+            "major": "Computer Engineering",
+            "password": "mohajel1234",
+            "courses": [
+                "10001",
+                "10002"
+            ],
+            "supervision_capacity": 3,
+            "review_capacity": 10
+        },
+        {
+            "id": "1000000017",
+            "name": "Dr. atieh firozeh",
+            "person": "professor",
+            "major": "Computer Engineering",
+            "password": "atieh1234",
+            "courses": [
+                "10003",
+                "10004"
+            ],
+            "supervision_capacity": 1,
+            "review_capacity": 8
+        },
+        {
+            "id": "1000000018",
+            "name": "Dr. bahman khosravi",
+            "person": "professor",
+            "major": "Electrical Engineering",
+            "password": "bahman1234",
+            "courses": [
+                "10009",
+                "10010"
+            ],
+            "supervision_capacity": 3,
+            "review_capacity": 9
+        },
+        {
+            "id": "1000000019",
+            "name": "Dr. alan turing",
+            "person": "professor",
+            "major": "Mechanical Engineering",
+            "password": "alan1234",
+            "courses": [
+                "10005",
+                "10006"
+            ],
+            "supervision_capacity": 5,
+            "review_capacity": 10
+        },
+        {
+            "id": "1000000020",
+            "name": "Dr. amir emad mirmirani",
+            "person": "professor",
+            "major": "Mechanical Engineering",
+            "password": "jadi1234",
+            "courses": [
+                "10007",
+                "10008"
+            ],
+            "supervision_capacity": 5,
+            "review_capacity": 10
+        },
+        {
+            "id": "1000000021",
+            "name": "Dr. reza rezaii",
+            "person": "professor",
+            "major": "Electrical Engineering",
+            "password": "reza1234",
+            "courses": [
+                "10011",
+                "10012"
+            ],
+            "supervision_capacity": 5,
+            "review_capacity": 10
+        }
+    ]
+}
