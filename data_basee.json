@@ -32,7 +32,7 @@
             "professor_id": "1000000017",
             "year": 2025,
             "semester": "First",
-            "capacity": 8,
+            "capacity": 10,
             "resources": [
                 "Computer Security: Principles and Practice by Stallings",
                 "The Web Application Hacker's Handbook by Stuttard & Pinto"
@@ -45,7 +45,7 @@
             "professor_id": "1000000017",
             "year": 2025,
             "semester": "Second",
-            "capacity": 7,
+            "capacity": 10,
             "resources": [
                 "Introduction to Algorithms by Cormen et al.",
                 "Algorithm Design by Kleinberg & Tardos"
@@ -110,7 +110,7 @@
             "professor_id": "1000000018",
             "year": 2025,
             "semester": "First",
-            "capacity": 8,
+            "capacity": 10,
             "resources": [
                 "Power System Analysis by Grainger & Stevenson",
                 "Electrical Power Systems by Wadhwa"

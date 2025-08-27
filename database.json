@@ -130,7 +130,7 @@
                 "10001",
                 "10002"
             ],
-            "supervision_capacity": 3,
+            "supervision_capacity": 5,
             "review_capacity": 10
         },
         {
@@ -143,8 +143,8 @@
                 "10003",
                 "10004"
             ],
-            "supervision_capacity": 1,
-            "review_capacity": 8
+            "supervision_capacity": 5,
+            "review_capacity": 10
         },
         {
             "id": "1000000018",
@@ -156,8 +156,8 @@
                 "10009",
                 "10010"
             ],
-            "supervision_capacity": 3,
-            "review_capacity": 9
+            "supervision_capacity": 5,
+            "review_capacity": 10
         },
         {
             "id": "1000000019",
